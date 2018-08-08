@@ -1,5 +1,3 @@
-
-
 class ChattyStudent < Student
 
   def hello
@@ -8,8 +6,14 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-    10.times do
-      super
-    end
-  end
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
+    super
 end
